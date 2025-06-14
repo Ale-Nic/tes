@@ -1,6 +1,5 @@
 # Examen Tipo Test: Estructuras de Datos I
 
-Este documento contiene 200 preguntas tipo test. Los fragmentos de codigo se muestran en recuadros y las soluciones se encuentran al final.
 
 ---
 
